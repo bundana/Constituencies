@@ -1,0 +1,131 @@
+S/N,REGION,CONSTITUENCY,SWING,MP
+1,Ahafo,Asutifi North,0.03,Patrick Banor
+2,Ahafo,Asunafo South,0.02,Eric Opoku
+3,Ahafo,Asunafo North,0.03,Evans Opoku Bobie
+4,Ahafo,Tano South,0.03,Benjamin Yeboah Sekyere
+5,Ahafo,Asutifi South,0.05,Collins Dauda
+6,Ahafo,Tano North,0.05,Freda Prempeh
+7,Ashanti,Ejura,0.05,Mohammed Bawah Braimah
+8,Ashanti,New Edubiase,0.03,Abdul-Salam Adams
+9,Ashanti,Sekyere Afram Plains,0.01,Alex Adomako-Mensah
+10,Ashanti,Offinso North,0.02,Augustine Collins Ntim
+11,Ashanti,Atwima Kwanwoma,0.02,Kofi Amankwa-Manu
+12,Ashanti,Atwima Mponua,0.02,Isaac Kwame Asiamah
+13,Ashanti,Ahafo Ano North,0.03,Suleman Adamu Sanid
+14,Ashanti,Ahafo Ano South West,0.03,Johnson Kwaku Adu
+15,Ashanti,Ahafo Ano South East,0.04,Francis Manu-Adabo
+16,Bono,Jaman North,0.05,Frederick Yaw Ahenkwah
+17,Bono,Dormaa East,0.04,Paul Apraku Twum Barimah
+18,Bono,Wenchi,0.03,Alhaji Haruna Seidu
+19,Bono,Tain,0.02,Sulemana Adama
+20,Bono,Jaman South,0.02,Williams Okofo-Darteh
+21,Bono,Banda Ahenkro,0,Ahmed Ibrahim
+22,Bono,Berekum West,0.02,Kwaku Agyenim-Boateng
+23,Bono,Sunyani West,0.03,Ignatius Baffour-Awuah
+24,Bono,Dormaa Central,0.09,Kwaku Agyeman-Manu
+25,Bono,Dormaa West,0.09,Vincent Oppong Asamoah
+26,Bono,Berekum East,0.12,Nelson Kyeremeh
+27,Bono,Sunyani East,0.12,Kwasi Ameyaw-Cheremeh
+28,Bono East,Atebubu-Amantin,0.08,Alhaji Salifu Adam Braimah
+29,Bono East,Nkoranza North,0.08,JOSEPH KWASI MENSAH
+30,Bono East,Nkoranza South,0.07,Emmanuel Kwadwo Agyekum
+31,Bono East,Pru West,0.07,Stephen Pambiin Jalulah
+32,Bono East,Techiman South,0.025,Martin Adjei-Mensah Korsah
+33,Bono East,Kintampo South,0.01,Alexander Gyan
+34,Bono East,Techiman North,0,Elizabeth Ofosu-Adjare
+35,Bono East,Sene West,0,Kwame Twumasi Ampofo
+36,Eastern,Yilo Krobo,0.06,Albert Tetteh Nyakotey
+37,Eastern,Akwatia,0.02,Henry Yiadom Boakye
+38,Eastern,Asuogyaman,0.01,Thomas Ampem Nyarko
+39,Eastern,Ayensuano,0.01,Teddy Safori Addi
+40,Eastern,Fanteakwa North,0.01,Amankwah Kwabena Asiamah
+41,Eastern,Upper West Akim,0.02,Frederick Obeng Adom
+42,Eastern,Abuakwa North,0.03,Gifty Twum-Ampofo
+43,Eastern,Upper Manya,0.05,Bismark Tetteh Nyarko
+44,Eastern,Lower Manya,0.05,Ebenezer Okletey Terlabi
+45,Eastern,Abirem,0.06,John Frimpong Osei
+46,Eastern,Lower West Akim,0.08,Charles Acheampong
+47,Greater Accra,Adenta,0.06,Mohammed Adamu Ramadan
+48,Greater Accra,Ablekuma Central,0,Abdul Latif Dan
+49,Greater Accra,Tema West,0.01,Carlos Kingsley Ahenkorah
+50,Greater Accra,Bortianor Ngleshie Amanfrom,0.03,Sylvester Matthew Tetteh
+51,Greater Accra,Ayawaso Central,0.04,Henry Quartey
+52,Greater Accra,Ablekuma West,0.05,Ursula Owusu-Ekuful
+53,Greater Accra,Dome Kwabenya,0.09,Sarah Adwoa Safo
+54,Greater Accra,Weija,0.09,Tina Naa Ayeley Mensah
+55,Greater Accra,Okaikwei South,0.11,Dakoa Newman
+56,Greater Accra,Trobu,0.14,Moses Anim
+57,Greater Accra,Ablekuma North,0.15,Sheila Penelope Bartels
+58,Greater Accra,Tema Central,0.15,Yves Hanson-Nortey
+59,Greater Accra,Anyaa Sowutuom,0.15,Dickson Adomako Kissi
+60,North East,Nalerigu / Gambaga,0.04,ISSIFU SEIDU
+21,North East,Bunkpurugu,0.02,"Abed-nego Bandim	"
+60,North East,Walewale,0.01,Hajia Lariba Zuweira Abudu
+63,North East,Yunyoo,0.07,Oscar Liwaal
+64,North East,Chereponi,0.11,Abdul-Razak Tahidu
+65,Northern,Sagnarigu,0.07,"	Fuseini Bashir Alhassan"
+66,Northern,Kumbungu,0.07,Hamza Adam
+67,Northern,Saboba,0.03,Bukari Nikpe Joseph
+68,Northern,Kpandai,0.02,Daniel Nsala Wakpal
+69,Northern,Wulensi,0.01,"Abukari Dawuni	"
+70,Northern,Savelugu,0,Jacob Iddriss Abdulai 
+71,Northern,Gushiegu,0.02,Alhassan Sulemana Tampuli
+72,Northern,Tatale Sanguli,0.04,Thomas Mbomba
+73,Northern,Zabzugu,0.05,Jabaah John Bennam
+74,Northern,Nanton,0.06,MOHAMMED HARDI TUFEIRU
+75,Northern,Tolon,0.09,Habib Iddrisu.
+76,Northern,Karaga,0.09,MOHAMMED AMIN ADAM
+77,Northern,Mion,0.1,ABDUL-AZIZ AYABA MUSAH
+78,Oti,Krachi Nchumuru,0.02,Solomon Kuyon
+79,Oti,Nkwanta North,0.02,John Oti Bless
+80,Oti,Krachi West,0.01,Helen Ntoso
+81,Oti,Krachi East,0.01,Wisdom Gidisu
+82,Savannah,Salaga South,0.02,Zuwera Mohammed Ibrahimah
+83,Savannah,Salaga North,0.03,Alhassan Abdallah Iddi
+84,Savannah,Damango,0.05,Samuel Abu Jinapor
+85,Savannah,Yapei-Kusawgu,0.09,John Abdulai Jinapor
+86,Savannah,Daboya-Mankarigu,0.1,MAHAMA ASEI SEINI
+87,Upper East,Navrongo Central,0.13,Sampson Tangombu Chiragia
+88,Upper East,Chiana-Paga,0.08,Thomas Adda Dalu
+89,Upper East,Nabdam,0.08,MARK KURT NAWAANE
+90,Upper East,Tempane,0.06,Akanvariva Lydia Lamisi 
+91,Upper East,Garu,0.06,Akuka Albert Alalzuuga
+92,Upper East,Builsa South,0.06,"
+Clement Abas Apaak"
+93,Upper East,Talensi,0.05,Benson Tongo Baba
+94,Upper East,Bawku Central,0.02,Mahama Ayariga 
+95,Upper East,Pusiga,0,Laadi Ayii Ayamba
+96,Upper East,Binduri,0.01,Abdulai Abanga
+97,Upper West,Lambussie Karni,0.02,BRIGHT BAKYE YELVIEL BALIGI
+98,Upper West,Sissala East,0.01,Amidu Issahaku Chinnia
+99,Upper West,Lawra,0.06,Bede Ziedeng
+100,Upper West,Sissala West,0.06,Mohammed Adams Sukparu
+101,Upper West,Wa Central,0.04,Abdul-Rashid Hassan Pelpuo
+102,Volta,Hohoe,0.05,John Peter Amewu
+103,Western,Prestea-Huni Valley,0.09,Robert Wisdom Cudjoe
+104,Western,Ellembelle,0.07,"
+Emmanuel Armah Kofi Buah"
+105,Western,Amenfi East,0.05,Nicholas Amankwah 
+106,Western,Amenfi Central,0.04,Peter Yaw Kwakye-Ackah
+107,Western,Jomoro,0.04,Dorcas Affo-Toffey
+108,Western,Evalue Gwira,0.03,Kofi Arko Nokoe
+109,Western,Wassa East,0.03,Isaac Adjei Mensah
+110,Western,Amenfi West,0.02,Eric Afful
+111,Western,Tarkwa Nsuaem,0,George Mireku Duker 
+112,Western,Essikado-Ketan,0.02,Joe Ghartey
+113,Western,Shama,0.03,Samuel Erickson Abakah
+114,Western,Ahanta West,0.04,Ebenezer Kojo Kum
+115,Western,Mpohor,0.05,John Kobina Abbam Aboah Sanie
+116,Western,Effia,0.09,Joseph Cudjoe
+117,Western,Sekondi,0.12,Andrew Egyapa Mercer.
+118,Western,Kwesimintsim,0.15,Prince Hamid Armah
+119,Western,Takoradi,0.18,Kwabena Okyere Darko-Mensah
+120,Western North,Bia West,0.09,Augustine Tawiah
+121,Western North,Sefwi Akontombra,0.05,Alex Tetteh Djornobuah
+122,Western North,Aowin,0.05,Oscar Ofori Larbi
+123,Western North,Bia East,0.05,Richard Acheampong
+124,Western North,Bodi,0.05,Sampson Ahi
+125,Western North,Juaboso,0.04,Kwabena Mintah Akandoh
+126,Western North,Sefwi Wiawso,0,Kwaku Afriyie
+127,Western North,Suaman,0.01,Joseph Betino
+128,Western North,Bibiani-Anhwiaso-Bekwai,0.12,Alfred Obeng-Boateng

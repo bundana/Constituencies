@@ -8,4 +8,9 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 class Constituency extends Model
 {
     use SoftDeletes;
+
+    protected $fillable  = [
+        'region', 'constituency', 'swing', 'mp', 'other_data'
+    ];
 }
+
