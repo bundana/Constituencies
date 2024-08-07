@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG Map of Ghana</title>
+    <style>
+        #info-card {
+            display: none;
+            position: absolute;
+            background: white;
+            border: 1px solid #ddd;
+            padding: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+        }
+        svg path {
+            stroke: #000;
+            stroke-width: 1;
+        }
+    </style>
+</head>
+<body>
+<div id="map-container"></div>
+
+<div id="info-card">
+    <p id="constituency-name"></p>
+    <p id="constituency-info"></p>
+</div>
+
+<script src="{{ asset('map.js') }}"></script>
+</body>
+</html>
