@@ -23,8 +23,32 @@ class MapController extends Controller
     {
 
         return Inertia::render('Index', [
-            'constituencies' => Constituency::all(),
+            'constituencies' => Constituency::get(),
+            'logo' => asset('ndc-logo.png'),
+            'map' => asset('ghana-map.svg')
+        ]);
+    }
+
+    public function showConstituency(Request $request)
+    {
+        $constituency = Constituency::findOrFail($request->id);
+        return Inertia::render('ConstituencyInfo', [
+            'constituency' => $constituency,
+            'logo' => asset('ndc-logo.png'),
+            'logoIcon' => asset('ndc-logo.png')
+        ]);
+    }
+
+    public function constituencies()
+    {
+
+        return Inertia::render('Constituencies', [
+            'constituencies' => Constituency::get(),
             'logo' => asset('ndc-logo.png')
         ]);
+    }
+    public function api()
+    {
+        return response()->json(Constituency::get());
     }
 }

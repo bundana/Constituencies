@@ -31,6 +31,7 @@ class HandleInertiaRequests extends Middleware
     {
         return [
             ...parent::share($request),
+            'ghana_map' => asset('ghana-map.svg'),
             'auth' => [
                 'user' => $request->user(),
             ],

@@ -2,6 +2,69 @@
 @tailwind components;
 @tailwind utilities;
 
+/* variables.css */
+
+/* Color Variables */
+:root {
+    --primary-green: #096537FF;
+    --primary-red: #E4161DFF;
+    --primary-black: #000000;
+    --primary-dark: #06552EFF; /* A darker green for hover effect */
+
+}
+
+/* Background Colors */
+.primary-green {
+    background-color: var(--primary-green);
+}
+
+.primary-red {
+    background-color: var(--primary-red);
+}
+
+.primary-black {
+    background-color: var(--primary-black);
+}
+
+/* Text Colors */
+.text-primary-green {
+    color: var(--primary-green);
+}
+
+.text-primary-red {
+    color: var(--primary-red);
+}
+
+.text-primary-black {
+    color: var(--primary-black);
+}
+
+
+/* Scrollbar Styles for WebKit Browsers */
+::-webkit-scrollbar {
+    width: 8px; /* Adjust width for thin scrollbar */
+    height: 8px; /* Adjust height for thin horizontal scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background-color: var(--primary-black); /* Background color of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--primary-green); /* Color of the scrollbar thumb */
+    border-radius: 4px; /* Rounded corners for the scrollbar thumb */
+}
+
+/* Optional: Change thumb color on hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--primary-dark); /* Darker green color on hover */
+}
+
+/* Scrollbar Styles for Firefox */
+body {
+    scrollbar-width: thin; /* Make scrollbar thin */
+    scrollbar-color: var(--primary-green) var(--primary-black); /* Thumb color and track color */
+}
 .map-container {
     width: 100%;
     height: 500px; /* Adjust height as needed */
@@ -60,4 +123,17 @@
     100% {
         background-position: 468px 0;
     }
+}
+
+
+/* Custom NProgress styles */
+#nprogress .bar {
+    background: linear-gradient(to right, var(--primary-red), var(--primary-green)); /* Red to Green gradient */
+}
+#nprogress .peg {
+    box-shadow: 0 0 10px  var(--primary-red), 0 0 5px  var(--primary-red); /* Optional: Customize shadow */
+}
+#nprogress .spinner-icon {
+    border-top-color:  var(--primary-green); /* Optional: Customize spinner color */
+    border-left-color:  var(--primary-green); /* Optional: Customize spinner color */
 }
